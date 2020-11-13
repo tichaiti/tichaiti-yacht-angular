@@ -1,3 +1,6 @@
 <div class="container">
-
+    <h3>L&ograve;t Kominote</h3>
+    <span *ngFor="let o of orgs" class="espas">
+        <a [href]="o['url']" target="_"><!-- <img [src]="o['logo_g']" [width]="o['logo_w']" [height]="o['logo_h']"> --> {{o['company']}}</a>
+    </span>
 </div>

@@ -5,8 +5,17 @@
 .container {
     width: 800px;
     height: 100px;
-    border-radius: .2em;
-    border-color: lightgrey;
-    border-style: dashed;
+    /* border-radius: .2em; */
+    /* border-color: lightgrey; */
+    /* border-style: dashed; */
+    align-items: center;
+}
+
+span {
+    font-size: .8rem;
+}
+
+.espas {
+    padding: 2%;
 }
 
