@@ -1,0 +1,13 @@
+:host {
+    /* This is equivalent of the 'body' selector of a page. */
+}
+
+.container {
+    width: 800px;
+    height: 425px;
+    border-radius: .2em;
+    border-color: lightgrey;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* border-style: dashed; */
+}
+

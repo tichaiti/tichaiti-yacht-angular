@@ -1,0 +1,30 @@
+:host {
+    /* This is equivalent of the 'body' selector of a page. */
+}
+
+.container {
+    width: 800px;
+    height: 200px;
+    border-radius: .2em;
+    border-color: lightgrey;
+}
+
+.hdr-center {
+    margin: auto;
+    /* width: 100%; */
+    height: 100px;
+    padding: 10px;
+    /* border-style: dashed; */
+}
+
+.welcome {
+    margin: auto;
+    /* text-align: center; */
+    font-size: 2em;
+}
+
+.yacht {
+    margin: auto;
+    /* text-align: center; */
+    font-size: 1em;
+} 

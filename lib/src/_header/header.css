@@ -1,0 +1,19 @@
+:host {
+    /* This is equivalent of the 'body' selector of a page. */
+}
+
+.container {
+    width: 800px;
+    height: 80px;
+    border-radius: .2em;
+    border-color: lightgrey;
+}
+
+.outlined {
+    border-style: dashed;
+}
+
+.tichaiti-name {
+    margin: auto;
+    font-size: x-large;
+}
